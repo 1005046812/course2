@@ -1,4 +1,4 @@
-package com.system.domain;
+package com.server.domain;
 
 public class Test{
     private String id;
