@@ -6,6 +6,7 @@
     <modules>
         <module>eureka</module>
         <module>system1</module>
+        <module>gateway1</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
